@@ -1,7 +1,7 @@
 Doubly Linked List
 ---
 
-**you can find a example usage in `main.c` __under development__**
+**you can find a example usage in `main.c`**
 
 
 ### initializing and deleting a linked list
@@ -71,7 +71,7 @@ Doubly Linked List
             int list_size;
     } linked_list;
 
-  --iterat
+  #### iterate
 
     typedef struct {
             struct node *cur;
